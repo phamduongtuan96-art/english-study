@@ -1,0 +1,6 @@
+{
+  "name": "IELTS/ESL Lesson AI Generator",
+  "description": "An AI-powered application that transforms YouTube transcripts or content into interactive English lessons for B1/B2 learners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
